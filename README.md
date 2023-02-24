@@ -6,7 +6,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
+<br>
 
 <img src="https://cdn.discordapp.com/attachments/1044956647996526623/1051553029469507594/resergym.png" alt="drawing" width="200"/>
 
